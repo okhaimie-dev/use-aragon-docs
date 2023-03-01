@@ -109,10 +109,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Examples',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Examples',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/pythonpete32/use-aragon',
